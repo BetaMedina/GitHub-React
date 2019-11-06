@@ -28,7 +28,7 @@ O que pode fazer:
   - eslint já consta configurado no projeto
  
 ```sh
-$ cd dillinger
+$ cd GitHub-React
 $ yarn
 $ yarn start
 ```
