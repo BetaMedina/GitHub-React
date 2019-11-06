@@ -35,9 +35,10 @@ $ yarn start
 
 **Free Software, Hell Yeah!**
 
-   [linkedin]: <https://www.linkedin.com/in/jo%C3%A3o-pedro-medina-aa029b149/>
-   [github]: <https://github.com/BetaMedina>
+  
    
    
-   **Author!**
-    João Pedro Medina  
+ **Author!**
+  João Pedro Medina  
+  - linkedin: https://www.linkedin.com/in/jo%C3%A3o-pedro-medina-aa029b149/
+  - github: https://github.com/BetaMedina
